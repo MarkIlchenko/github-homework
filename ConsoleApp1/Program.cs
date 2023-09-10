@@ -20,6 +20,8 @@ class Program
             Console.WriteLine("Add isMale");
         }
 
+        Console.WriteLine("Added new branch");
+
         Console.ReadLine();
     }
 }
